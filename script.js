@@ -17,6 +17,7 @@ const words = [
   "Magnesium",
   "Potassium",
   "Sodium",
+  "Zinc"
 ];
 let selectedWord = "";
 let attemptsLeft = 0;
