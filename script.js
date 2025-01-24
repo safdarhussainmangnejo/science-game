@@ -1,23 +1,24 @@
 const words = [
-  "Carbon",
   "Hydrogen",
-  "Nitrogen",
-  "Oxygen",
-  "Phosphorus",
-  "Sulfur",
-  "Silicon",
-  "Calcium",
-  "Bromine",
   "Helium",
   "Lithium",
-  "Berylium",
+  "Beryllium",
   "Boron",
+  "Carbon",
+  "Nitrogen",
+  "Oxygen",
   "Fluorine",
   "Neon",
-  "Magnesium",
-  "Potassium",
   "Sodium",
-  "Zinc"
+  "Magnesium",
+  "Aluminium",
+  "Silicon",
+  "Phosphorus",
+  "Sulphur",
+  "Chlorine",
+  "Argon",
+  "Potassium",
+  "Calcium"
 ];
 let selectedWord = "";
 let attemptsLeft = 0;
